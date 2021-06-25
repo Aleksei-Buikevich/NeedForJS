@@ -52,8 +52,7 @@ table {
   height: 100px;
   background: transparent url('./image/player2.png') center / cover no-repeat;
   position: absolute;
-  left: 125px;
-  bottom: 10px;
+
 }
 
 
@@ -73,7 +72,7 @@ table {
   background: #fff;
   left: 145px;
 }
-/*
+
 .start {
   position: absolute;
   left: 0;
